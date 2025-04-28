@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      png-transparent-presidente-jair-bolsonaro-thumbnail_0: 3747529849224663703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
