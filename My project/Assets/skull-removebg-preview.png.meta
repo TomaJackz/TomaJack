@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 47dc9b824e0429341966d9b512d2a97f
+guid: 27b31ed757433a1448efcbe720ae8ec6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7340244853389348054
-    second: GOAT_0
+      213: -6238600507714843959
+    second: skull-removebg-preview_0
+  - first:
+      213: 2490707731437984194
+    second: skull-removebg-preview_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: GOAT_0
+      name: skull-removebg-preview_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 547
-        height: 972
+        x: 310
+        y: 343
+        width: 38
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a23b6553236322a90800000000000000
-      internalID: -7340244853389348054
+      spriteID: 9cac51a44e90c69a0800000000000000
+      internalID: -6238600507714843959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skull-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 16
+        width: 343
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c91ea34c75c09220800000000000000
+      internalID: 2490707731437984194
       vertices: []
       indices: 
       edges: []
@@ -134,8 +159,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      GOAT_0: -7340244853389348054
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

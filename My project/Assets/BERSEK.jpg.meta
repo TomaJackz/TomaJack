@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BERSEK_0: 7191316666018431699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
